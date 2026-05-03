@@ -20,4 +20,3 @@ By leveraging **PostgreSQL** and **WebSockets**, this project demonstrates a sca
 | **Deployment** | Vercel | Global edge deployment to ensure the lowest possible latency for users worldwide. |
 
 ---
-
